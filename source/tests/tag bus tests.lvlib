@@ -10,6 +10,12 @@
 		<Item Name="lookup speed test.vi" Type="VI" URL="../lookup speed test.vi"/>
 		<Item Name="test insert speed.vi" Type="VI" URL="../test insert speed.vi"/>
 	</Item>
+	<Item Name="events" Type="Folder">
+		<Item Name="test event queue.vi" Type="VI" URL="../test event queue.vi"/>
+	</Item>
+	<Item Name="stream" Type="Folder">
+		<Item Name="streams test.vi" Type="VI" URL="../streams test.vi"/>
+	</Item>
 	<Item Name="table" Type="Folder"/>
 	<Item Name="tag desc" Type="Folder">
 		<Item Name="default value test.vi" Type="VI" URL="../default value test.vi"/>

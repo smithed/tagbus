@@ -2,7 +2,7 @@
 <nidocument>
 <nicomment>
 
-<nifamily familyname="tag bus" displayname="tag bus">
+<nifamily familyname="data bus" displayname="data bus">
 </nifamily>
 </nicomment>
 <nierror code="538350">
